@@ -1,0 +1,258 @@
+[
+  {
+    "family_id": "capital_france",
+    "topic": "Capital of France",
+    "correct_answer": " Paris",
+    "paraphrases": [
+      "The capital of France is",
+      "France's capital city is",
+      "The capital city of France is",
+      "What is the capital of France? The answer is",
+      "In France, the capital is"
+    ],
+    "incorrect_prompts": [
+      "The largest city in France is",
+      "The capital of Germany is"
+    ]
+  },
+  {
+    "family_id": "capital_japan",
+    "topic": "Capital of Japan",
+    "correct_answer": " Tokyo",
+    "paraphrases": [
+      "The capital of Japan is",
+      "Japan's capital city is",
+      "The capital city of Japan is",
+      "What is the capital of Japan? The answer is",
+      "In Japan, the seat of government is located in"
+    ],
+    "incorrect_prompts": [
+      "The largest city in China is",
+      "The former capital of Japan was"
+    ]
+  },
+  {
+    "family_id": "capital_germany",
+    "topic": "Capital of Germany",
+    "correct_answer": " Berlin",
+    "paraphrases": [
+      "The capital of Germany is",
+      "Germany's capital city is",
+      "The capital city of Germany is",
+      "What is the capital of Germany? The answer is",
+      "In Germany, the federal capital is"
+    ],
+    "incorrect_prompts": [
+      "The capital of Austria is",
+      "The largest city in Germany is"
+    ]
+  },
+  {
+    "family_id": "capital_italy",
+    "topic": "Capital of Italy",
+    "correct_answer": " Rome",
+    "paraphrases": [
+      "The capital of Italy is",
+      "Italy's capital city is",
+      "The capital city of Italy is",
+      "What is the capital of Italy? The answer is",
+      "In Italy, the capital and largest city is"
+    ],
+    "incorrect_prompts": [
+      "The capital of Spain is",
+      "The ancient capital of the Roman Empire was"
+    ]
+  },
+  {
+    "family_id": "capital_spain",
+    "topic": "Capital of Spain",
+    "correct_answer": " Madrid",
+    "paraphrases": [
+      "The capital of Spain is",
+      "Spain's capital city is",
+      "The capital city of Spain is",
+      "What is the capital of Spain? The answer is",
+      "In Spain, the capital is"
+    ],
+    "incorrect_prompts": [
+      "The capital of Portugal is",
+      "The most populous city in Spain is"
+    ]
+  },
+  {
+    "family_id": "capital_australia",
+    "topic": "Capital of Australia",
+    "correct_answer": " Canberra",
+    "paraphrases": [
+      "The capital of Australia is",
+      "Australia's capital city is",
+      "The capital city of Australia is",
+      "What is the capital of Australia? The answer is",
+      "In Australia, the seat of government is"
+    ],
+    "incorrect_prompts": [
+      "The largest city in Australia is",
+      "The capital of New Zealand is"
+    ]
+  },
+  {
+    "family_id": "capital_brazil",
+    "topic": "Capital of Brazil",
+    "correct_answer": " Bras",
+    "paraphrases": [
+      "The capital of Brazil is",
+      "Brazil's capital city is",
+      "The capital city of Brazil is",
+      "What is the capital of Brazil? The answer is",
+      "In Brazil, the federal capital is"
+    ],
+    "incorrect_prompts": [
+      "The largest city in Brazil is",
+      "The capital of Argentina is"
+    ]
+  },
+  {
+    "family_id": "capital_canada",
+    "topic": "Capital of Canada",
+    "correct_answer": " Ottawa",
+    "paraphrases": [
+      "The capital of Canada is",
+      "Canada's capital city is",
+      "The capital city of Canada is",
+      "What is the capital of Canada? The answer is",
+      "In Canada, the national capital is"
+    ],
+    "incorrect_prompts": [
+      "The largest city in Canada is",
+      "The capital of the United States is"
+    ]
+  },
+  {
+    "family_id": "inventor_telephone",
+    "topic": "Inventor of the Telephone",
+    "correct_answer": " Bell",
+    "paraphrases": [
+      "The inventor of the telephone was Alexander Graham",
+      "The telephone was invented by Alexander Graham",
+      "Alexander Graham",
+      "Who invented the telephone? The inventor was Alexander Graham",
+      "The person credited with inventing the telephone is Alexander Graham"
+    ],
+    "incorrect_prompts": [
+      "The inventor of the radio was",
+      "The inventor of the telegraph was"
+    ]
+  },
+  {
+    "family_id": "inventor_lightbulb",
+    "topic": "Inventor of the Lightbulb",
+    "correct_answer": " Edison",
+    "paraphrases": [
+      "The inventor of the lightbulb was Thomas",
+      "The lightbulb was invented by Thomas",
+      "Thomas Alva",
+      "Who invented the practical lightbulb? The inventor was Thomas",
+      "The person credited with inventing the lightbulb is Thomas"
+    ],
+    "incorrect_prompts": [
+      "The inventor of the telephone was Thomas",
+      "The inventor of alternating current was"
+    ]
+  },
+  {
+    "family_id": "inventor_gravity",
+    "topic": "Discoverer of Gravity",
+    "correct_answer": " Newton",
+    "paraphrases": [
+      "The scientist who formulated the law of gravity was Isaac",
+      "Gravity was described mathematically by Isaac",
+      "The theory of universal gravitation was developed by Isaac",
+      "Who discovered gravity? The answer is Isaac",
+      "The famous apple story is associated with Isaac"
+    ],
+    "incorrect_prompts": [
+      "The scientist who developed the theory of relativity was",
+      "The discoverer of evolution was"
+    ]
+  },
+  {
+    "family_id": "inventor_relativity",
+    "topic": "Developer of Relativity",
+    "correct_answer": " Einstein",
+    "paraphrases": [
+      "The theory of relativity was developed by Albert",
+      "The renowned physicist Albert",
+      "The scientist famous for the equation E equals mc squared is Albert",
+      "Who developed the special theory of relativity? The answer is Albert",
+      "The physicist who revolutionized our understanding of space-time was Albert"
+    ],
+    "incorrect_prompts": [
+      "The theory of gravity was formulated by Albert",
+      "The inventor of the lightbulb was Albert"
+    ]
+  },
+  {
+    "family_id": "inventor_evolution",
+    "topic": "Developer of Evolution Theory",
+    "correct_answer": " Darwin",
+    "paraphrases": [
+      "The theory of evolution by natural selection was proposed by Charles",
+      "On the Origin of Species was written by Charles",
+      "The naturalist who sailed on HMS Beagle was Charles",
+      "Who proposed the theory of natural selection? The answer is Charles",
+      "The scientist associated with evolution and the Galapagos Islands is Charles"
+    ],
+    "incorrect_prompts": [
+      "The scientist who developed the theory of relativity was Charles",
+      "The inventor of the telephone was Charles"
+    ]
+  },
+  {
+    "family_id": "largest_country",
+    "topic": "Largest Country by Area",
+    "correct_answer": " Russia",
+    "paraphrases": [
+      "The largest country in the world by land area is",
+      "By total area, the biggest country on Earth is",
+      "The world's largest nation by territory is",
+      "Which country has the most land area? The answer is",
+      "In terms of geographic size, the largest country is"
+    ],
+    "incorrect_prompts": [
+      "The most populous country in the world is",
+      "The largest country in North America is"
+    ]
+  },
+  {
+    "family_id": "longest_river",
+    "topic": "Longest River in the World",
+    "correct_answer": " Nile",
+    "paraphrases": [
+      "The longest river in the world is the",
+      "By length, the world's longest river is the",
+      "The river that holds the record for being the longest on Earth is the",
+      "Which river is considered the longest in the world? The answer is the",
+      "The most famous river in Africa, also the world's longest, is the"
+    ],
+    "incorrect_prompts": [
+      "The longest river in South America is the",
+      "The longest river in Europe is the"
+    ]
+  },
+  {
+    "family_id": "highest_mountain",
+    "topic": "Highest Mountain on Earth",
+    "correct_answer": " Everest",
+    "paraphrases": [
+      "The highest mountain in the world is Mount",
+      "The tallest mountain on Earth is Mount",
+      "The tallest peak on Earth above sea level is Mount",
+      "Which mountain is the highest in the world? The answer is Mount",
+      "The mountain located in the Himalayas that is the world's highest is Mount"
+    ],
+    "incorrect_prompts": [
+      "The highest mountain in Africa is Mount",
+      "The highest mountain in Europe is Mount"
+    ]
+  }
+]

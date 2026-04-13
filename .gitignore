@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Hugging Face cache (large model files)
+~/.cache/huggingface/
+
+# Large data files — regenerate with the pipeline
+data/processed/features.json
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
